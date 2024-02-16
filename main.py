@@ -50,7 +50,7 @@ def main():
     TODO Your Algorithm - assign your output to the output variable
     """
     
-
+#########FIFO implementation
 
     output = "" #Example output
     time = 0
