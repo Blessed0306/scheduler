@@ -46,4 +46,4 @@ python3 main.py
 * In this program, tasks are fed to system at the first step which means tasks will not be added to system while CPU is processing
 * One of the main advantages of this program is `multithreading`! It allows tasks to be processed by different CPU-cores simultaneously. So to be able to run this program you should have installed `threading` module
 * To be able to use advantages of multi-threading, I used different `Semaphore`s
-* This project was done as my final project of `Operating Systems` course in semester 5
+* This project was done as my final project of `Operating Systems` course in semester 2
